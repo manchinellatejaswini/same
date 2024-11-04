@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#output {
+  margin-top: 20px;
+}
+
+.student {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
